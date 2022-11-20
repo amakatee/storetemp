@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import AuthLayout from '../../compontents/AuthLayout'
+import AuthLayout from '../../components/AuthLayout'
 const registration = () => {
     const [success, setSuccess] = useState()
     const [err, stErr] = useState()
